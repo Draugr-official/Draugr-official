@@ -1,4 +1,7 @@
-### Hi there 👋
+<div>
+<h1 align="center">Hey, I'm Draugr!<h1>
+<h4 align="center">(Otherwise known as _King_ and Native x64)<h4>
+</div>
 
 <!--
 **Draugr-official/Draugr-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
