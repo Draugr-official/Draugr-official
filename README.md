@@ -1,6 +1,6 @@
 <div>
-<h1 align="center">Hey, I'm Draugr!<h1>
-<h4 align="center">(Otherwise known as _King_ and Native x64)<h4>
+<h1 align="center">Hey, I'm Draugr!</h1>
+<h4 align="center">(Otherwise known as _King_ and Native x64)</h4>
 </div>
 
 <!--
