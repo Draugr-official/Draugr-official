@@ -1,19 +1,10 @@
 <div>
-<h1 align="center">Hey, I'm Draugr!</h1>
-<h4 align="center">(Otherwise known as _King_ and Native x64)</h4>
+    <h1 align="center">Hey, I'm _King_!</h1>
+    <h4 align="center">(Otherwise known as _King_ and Native x64)</h4>
 </div>
-
-<!--
-**Draugr-official/Draugr-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="justify-content: center" align="center">
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=draugr-official&theme=gotham&layout=compact" />
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api?username=draugr-official&theme=gotham&show_icons=true" />
+</div>
