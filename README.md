@@ -1,6 +1,6 @@
 ## Skills
 - 🌐 Web development *(HTML, CSS, JS. React, Vite and more)*
-- 💻 Software development *(.NET, WPF, WinUI, C++)*
+- 💻 Software development *(.NET, WPF, WinUI, C#, and more)*
 - 🖼️ UI/UX design
 - 🔐 Cyber security *(Security logic and reverse engineering)*
 - 🕹️ Game & game engine design and development
