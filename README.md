@@ -1,13 +1,3 @@
-## Skills
-- 🌐 Web development *(HTML, CSS, JS. React, Vite and more)*
-- 💻 Software development *(.NET, WPF, WinUI, C#, and more)*
-- 🖼️ UI/UX design
-- 🔐 Cyber security *(Security logic and reverse engineering)*
-- 🕹️ Game & game engine design and development
-
-## Goals
-- 🧠 Artificial intelligence
-- 🤖 Robots
-
-
-[![](https://visitcount.itsvg.in/api?id=draugr-official&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57600814/231979637-0bec8c3d-f3d4-4a71-9dc9-1b4b73930746.png" alt="Readme banner"/>
+</p>
