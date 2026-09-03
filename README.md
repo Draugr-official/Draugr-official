@@ -1,1 +1,3 @@
-![image](https://github.com/user-attachments/assets/5b2001ad-da0e-4fdc-93e8-8aae79f43dd3)
+<div align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/draugr-official?cardType=level-alternate&theme=github-dark&fontFamily=Roboto&preferLogin=false" alt="Draugr's GitHub Stats" />
+</div>
